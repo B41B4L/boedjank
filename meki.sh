@@ -94,25 +94,30 @@ exit
 
 2) clear
 sh 2.sh
+exit
 ;;
 
 3) clear
 sh 3.sh
+exit
 ;;
 
 4) clear
 sh 4.sh
+exit
 ;;
 
 5) clear
 sh 5.sh
+exit
 ;;
 
 6) clear
 sh 6.sh
+exit
 ;;
 
-7) echo $cy " Babai 😗"
+7) echo $cy " Babai Su😗"
 exit
 ;;
 *) echo " CARI YANG ADA AJA Sayank😘 " | lolcat
